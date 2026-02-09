@@ -696,13 +696,9 @@
 	icon_state = "koteykomya"
 	squeak_override = list('modular_bluemoon/sound/plush/Koteyko_bad_smell.ogg' = 1, 'modular_bluemoon/sound/plush/Koteyko_rotting.ogg' = 1, 'modular_bluemoon/sound/plush/Koteyko_dicks_and_butts.ogg' = 1)
 
-/obj/item/toy/plush/leia
+/obj/item/toy/plush/bm/leia
 	name = "Mini Leia"
 	desc = "Плюшевая игрушка изготовленная из дешевых но приятных на ощюпь материалов. Сшита на темных мануфактурах ручками бедных кеткринских детей."
 	icon_state = "leia"
-	item_state = "leia"
-	icon = 'modular_bluemoon/icons/obj/toys/plushes.dmi'
-	lefthand_file = 'modular_bluemoon/icons/mob/inhands/items/plushes_lefthand.dmi'
-	righthand_file = 'modular_bluemoon/icons/mob/inhands/items/plushes_righthand.dmi'
 	squeak_override = list('modular_bluemoon/sound/plush/leia_giggle.ogg' = 1, 'modular_bluemoon/sound/plush/leia_nyah.ogg' = 1, 'modular_bluemoon/sound/plush/leia_plan.ogg' = 1)
 	can_you_fuck_plush = TRUE //Это не я хотел, бог мне свидетель.
