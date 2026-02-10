@@ -701,4 +701,3 @@
 	desc = "Плюшевая игрушка изготовленная из дешевых но приятных на ощюпь материалов. Сшита на темных мануфактурах ручками бедных кеткринских детей."
 	icon_state = "leia"
 	squeak_override = list('modular_bluemoon/sound/plush/leia_giggle.ogg' = 1, 'modular_bluemoon/sound/plush/leia_nyah.ogg' = 1, 'modular_bluemoon/sound/plush/leia_plan.ogg' = 1)
-	can_you_fuck_plush = TRUE //Это не я хотел, бог мне свидетель.
