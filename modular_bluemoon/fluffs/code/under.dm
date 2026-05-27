@@ -821,7 +821,6 @@
 	item_state = "h_thin_tshirt"
 	icon = 'modular_bluemoon/fluffs/icons/obj/clothing/underwear.dmi'
 	mob_overlay_icon = 'modular_bluemoon/fluffs/icons/mob/clothing/underwear.dmi'
-	can_adjust = FALSE
 
 /obj/item/clothing/underwear/briefs/h_thin_slim_tshirt
 	name = "Slim T-shirt"
@@ -830,7 +829,6 @@
 	item_state = "h_slim_tshirt"
 	icon = 'modular_bluemoon/fluffs/icons/obj/clothing/underwear.dmi'
 	mob_overlay_icon = 'modular_bluemoon/fluffs/icons/mob/clothing/underwear.dmi'
-	can_adjust = FALSE
 
 /obj/item/clothing/underwear/briefs/h_thin_eslim_tshirt
 	name = "EXTRA Slim T-shirt"
@@ -839,4 +837,3 @@
 	item_state = "h_eslim_tshirt"
 	icon = 'modular_bluemoon/fluffs/icons/obj/clothing/underwear.dmi'
 	mob_overlay_icon = 'modular_bluemoon/fluffs/icons/mob/clothing/underwear.dmi'
-	can_adjust = FALSE
