@@ -2379,17 +2379,17 @@
 /datum/gear/donator/bm/h_thin_tshirt
 	name = "Thin T-shirt"
 	slot = ITEM_SLOT_SHIRT
-	path = /obj/item/clothing/under/donator/bm/h_thin_tshirt
+	path = /obj/item/clothing/underwear/shirt/h_thin_tshirt
 	ckeywhitelist = list("hateredsoul")
 
 /datum/gear/donator/bm/h_slim_tshirt
-	name = "Thin T-shirt"
+	name = "Slim T-shirt"
 	slot = ITEM_SLOT_UNDERWEAR
-	path = /obj/item/clothing/under/donator/bm/h_slim_tshirt
+	path = /obj/item/clothing/underwear/briefs/h_thin_slim_tshirt
 	ckeywhitelist = list("hateredsoul")
 
 /datum/gear/donator/bm/h_eslim_tshirt
-	name = "EXTRA Thin T-shirt"
+	name = "EXTRA slim T-shirt"
 	slot = ITEM_SLOT_UNDERWEAR
-	path = /obj/item/clothing/under/donator/bm/h_eslim_tshirt
+	path = /obj/item/clothing/underwear/briefs/h_thin_eslim_tshirt
 	ckeywhitelist = list("hateredsoul")
