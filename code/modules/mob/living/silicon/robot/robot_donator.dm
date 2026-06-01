@@ -257,5 +257,5 @@ GLOBAL_LIST_INIT_TYPED(borg_donator_skins, /datum/borg_donator_skin, list(
 	new /datum/borg_donator_skin/syndicate/inteq/mekafl
 	new /datum/borg_donator_skin/syndicate_medical/inteq/mekafl
 	new /datum/borg_donator_skin/saboteur/inteq/mekafl
-	new /obj/item/robot_module/inteq_builder/mekafl
+	new /datum/borg_donator_skin/inteq_builder/mekafl
 ))
