@@ -1623,7 +1623,7 @@
 	slot = ITEM_SLOT_UNDERWEAR
 	path = /obj/item/clothing/underwear/briefs/bongepop
 	ckeywhitelist = list("ordinarylife", "leony24", "kennedykiller", "theatlasplay", "ninjapikachushka", \
-	"devildeadspace", "trustmeimengineer", "izakfromrus", "hazzi", "dolbajob", "vulpshiro", "pingvas", "silyamg")
+	"devildeadspace", "trustmeimengineer", "izakfromrus", "hazzi", "dolbajob", "vulpshiro", "pingvas", "silyamg", "hateredsoul")
 
 /datum/gear/donator/bm/breadboots
 	name = "Breadshoe"
