@@ -2442,7 +2442,7 @@
 	path = /obj/item/storage/backpack/krieg
 	ckeywhitelist = list("vlonger", "pingavas", "dragon9090")
 
-/datum/gear/donator/bm/krieg_backpack
+/datum/gear/donator/bm/pmc_skull_mask
 	name = "Skull mask"
 	slot = ITEM_SLOT_MASK
 	path = /obj/item/clothing/mask/gas/syndicate/pmc_skull_mask
