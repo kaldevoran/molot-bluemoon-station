@@ -2441,3 +2441,9 @@
 	slot = ITEM_SLOT_BACK
 	path = /obj/item/storage/backpack/krieg
 	ckeywhitelist = list("vlonger", "pingavas", "dragon9090")
+
+/datum/gear/donator/bm/krieg_backpack
+	name = "Skull mask"
+	slot = ITEM_SLOT_MASK
+	path = /obj/item/clothing/mask/gas/syndicate/pmc_skull_mask
+	ckeywhitelist = list("hateredsoul")
