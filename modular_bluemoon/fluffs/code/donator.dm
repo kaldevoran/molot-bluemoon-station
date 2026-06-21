@@ -2053,13 +2053,13 @@
 	name = "BEAR Patch"
 	slot = ITEM_SLOT_BACKPACK
 	path = /obj/item/clothing/accessory/bear_patch
-	ckeywhitelist = list("hihitect", "hateredsoul", "hellsinggc", "silyamg", "dimofon", "xaeshkavd")
+	ckeywhitelist = list("hihitect", "hateredsoul", "hellsinggc", "silyamg", "dimofon", "xaeshkavd", "hartty")
 
 /datum/gear/donator/bm/usec_patch
 	name = "USEC Patch"
 	slot = ITEM_SLOT_BACKPACK
 	path = /obj/item/clothing/accessory/usec_patch
-	ckeywhitelist = list("hihitect", "hateredsoul", "hellsinggc", "silyamg", "dimofon", "xaeshkavd")
+	ckeywhitelist = list("hihitect", "hateredsoul", "hellsinggc", "silyamg", "dimofon", "xaeshkavd", "hartty")
 
 /datum/gear/donator/bm/transparent_gloves
 	name = "Transparent Gloves"
