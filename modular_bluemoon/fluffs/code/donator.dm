@@ -2380,19 +2380,19 @@
 	name = "Thin T-shirt"
 	slot = ITEM_SLOT_OCLOTHING
 	path = /obj/item/clothing/underwear/shirt/h_thin_tshirt
-	ckeywhitelist = list("hateredsoul")
+	ckeywhitelist = list("hateredsoul", "angelnedemon")
 
 /datum/gear/donator/bm/h_slim_tshirt
 	name = "Slim T-shirt"
 	slot = ITEM_SLOT_OCLOTHING
 	path = /obj/item/clothing/underwear/briefs/h_thin_slim_tshirt
-	ckeywhitelist = list("hateredsoul")
+	ckeywhitelist = list("hateredsoul", "angelnedemon")
 
 /datum/gear/donator/bm/h_eslim_tshirt
 	name = "EXTRA slim T-shirt"
 	slot = ITEM_SLOT_OCLOTHING
 	path = /obj/item/clothing/underwear/briefs/h_thin_eslim_tshirt
-	ckeywhitelist = list("hateredsoul")
+	ckeywhitelist = list("hateredsoul", "angelnedemon")
 
 /datum/gear/donator/bm/scream_knife_kit
 	name = "Scream Knife Kit"
